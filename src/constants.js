@@ -1,1 +1,1 @@
-export const DB_NAME = "issan"
+export const DB_NAME = "inssan"
